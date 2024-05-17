@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil  
 
-<!--
-**yarabispo/yarabispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yara Araújo
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](httml://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minhha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo
+
+  yara.b.araujo12@gmail.com
+  
+  @yara.araujo.3511041
+
+  ![](https://tenor.com/pt-BR/view/princess-im-a-princess-cute-pretty-the-princess-has-arrived-gif-11306664)
+  
